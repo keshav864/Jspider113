@@ -1,0 +1,4 @@
+A)    it is used to find past commands
+B)  The ls command is a widely used Linux command. In its simplest form, the command lists files and folders within a directory. However, ls doesn't list hidden files by default. To show hidden files you must use the -a option, which commands ls to list "all" files and folders
+C)    By Choosing an OS for your server can be a really confusing task due to a huge list of available options; especially if you want to go with a Linux distribution. There are many choices, but none of them are as famous as Ubuntu
+D)  NO
